@@ -109,7 +109,7 @@ namespace COMP003A.Assignment1
             Console.WriteLine("98. Details");
             Console.WriteLine("99. Details");
             Console.WriteLine("100. Details");
-            // Console.WriteLine("101. Details");
+       
 
         }
     }
