@@ -32,8 +32,8 @@ namespace COMP003A.Assignment1
             Console.WriteLine("21. I enjoy offroading.");
             Console.WriteLine("22. Fixing cars is one of my hobbies.");
             Console.WriteLine("23. I orginally wanted to study for my nursing degree.");
-            Console.WriteLine("24. Details");
-            Console.WriteLine("25. Details");
+            Console.WriteLine("24. I currently work as a cashier");
+            Console.WriteLine("25. I used to be a shift manager at Carls. Jr.");
             Console.WriteLine("26. Details");
             Console.WriteLine("27. Details");
             Console.WriteLine("28. Details");
